@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_8" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/target/test-classes"/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<excludeFolder url="file://$MODULE_DIR$/target"/>
+	</contentEntry>
+	<levels>
+		<level name="Maven: processing:core:2.2.1" value="project"/>
+		<level name="Maven: processing:gifanimation:1.0" value="project"/>
+		<level name="Maven: processing:sound:1.0" value="project"/>
+		<level name="Maven: processing.sound:jl:1.0" value="project"/>
+		<level name="Maven: processing.sound:jsminim:1.0" value="project"/>
+		<level name="Maven: processing.sound:minim:1.0" value="project"/>
+		<level name="Maven: processing.sound:mp3spi:1.9.4" value="project"/>
+		<level name="Maven: processing.sound:tritonus_aos:1.9.4" value="project"/>
+		<level name="Maven: processing.sound:tritonus_share:1.0" value="project"/>
+	</levels>
+</component>
